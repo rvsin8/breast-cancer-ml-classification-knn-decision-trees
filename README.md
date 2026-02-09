@@ -6,21 +6,21 @@ Predict whether a breast tumor is malignant or benign using supervised machine l
 ### Dataset
 Breast Cancer Wisconsin (Diagnostic) Dataset from Kaggle.
 
-## Models Used
+### Models Used
 - Decision Tree Classifier
 - K-Nearest Neighbors (KNN)
 
-## Evaluation Metrics
+### Evaluation Metrics
 - Accuracy
 - Precision
 - Recall
 - F1-score
 - Confusion Matrix
 
-## Key Findings
+### Key Findings
 - KNN achieved higher accuracy after feature scaling.
 - Decision Tree provided interpretability with slightly lower performance.
 - Demonstrates the tradeoff between explainability and predictive power.
 
-## Tools
+### Tools
 Python, pandas, scikit-learn, matplotlib, seaborn
