@@ -6,7 +6,7 @@ Predict whether a breast tumor is malignant or benign using supervised machine l
 ### Dataset
 Breast Cancer Wisconsin (Diagnostic) Dataset from Kaggle.
 
-### Models Used
+## Models Used
 - Decision Tree Classifier
 - K-Nearest Neighbors (KNN)
 
